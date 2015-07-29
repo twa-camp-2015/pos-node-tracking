@@ -1,0 +1,33 @@
+[submodule "ShiCaiqiang"]
+	path = ShiCaiqiang
+	url = git@github.com:scq000/node-pos.git
+[submodule "ZhaoShaoyi"]
+	path = ZhaoShaoyi
+	url = git@github.com:simpletrain/node-pos.git
+[submodule "WangXiaolong"]
+	path = WangXiaolong
+	url = git@github.com:XiaoLongW/node-pos.git
+[submodule "LiYa"]
+	path = LiYa
+	url = git@github.com:aositelici/node-pos.git
+[submodule "WuXue"]
+	path = WuXue
+	url = git@github.com:zwimeyihmh/node-pos.git
+[submodule "LiYuanyuan"]
+	path = LiYuanyuan
+	url = git@github.com:liyuanyuan57/node-pos.git
+[submodule "LiuDi"]
+	path = LiuDi
+	url = git@github.com:Danaekola/node-pos.git
+[submodule "ZhouYixing"]
+	path = ZhouYixing
+	url = git@github.com:sialvsic/node-pos.git
+[submodule "LiYu"]
+	path = LiYu
+	url = git@github.com:Evan-Leee/node-pos.git
+[submodule "WangYue"]
+	path = WangYue
+	url = git@github.com:WY08271/node-pos.git
+[submodule "WangFengzhu"]
+	path = WangFengzhu
+	url = git@github.com:carolineF/node-pos.git
